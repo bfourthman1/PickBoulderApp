@@ -1,0 +1,12 @@
+C:\PickBoulderApp\PickBoulder.Repository\obj\Debug\net6.0\PickBoulder.Repository.csproj.AssemblyReference.cache
+C:\PickBoulderApp\PickBoulder.Repository\obj\Debug\net6.0\PickBoulder.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\PickBoulderApp\PickBoulder.Repository\obj\Debug\net6.0\PickBoulder.Repository.AssemblyInfoInputs.cache
+C:\PickBoulderApp\PickBoulder.Repository\obj\Debug\net6.0\PickBoulder.Repository.AssemblyInfo.cs
+C:\PickBoulderApp\PickBoulder.Repository\obj\Debug\net6.0\PickBoulder.Repository.csproj.CoreCompileInputs.cache
+C:\PickBoulderApp\PickBoulder.Repository\bin\Debug\net6.0\PickBoulder.Repository.deps.json
+C:\PickBoulderApp\PickBoulder.Repository\bin\Debug\net6.0\PickBoulder.Repository.dll
+C:\PickBoulderApp\PickBoulder.Repository\bin\Debug\net6.0\ref\PickBoulder.Repository.dll
+C:\PickBoulderApp\PickBoulder.Repository\bin\Debug\net6.0\PickBoulder.Repository.pdb
+C:\PickBoulderApp\PickBoulder.Repository\obj\Debug\net6.0\PickBoulder.Repository.dll
+C:\PickBoulderApp\PickBoulder.Repository\obj\Debug\net6.0\ref\PickBoulder.Repository.dll
+C:\PickBoulderApp\PickBoulder.Repository\obj\Debug\net6.0\PickBoulder.Repository.pdb

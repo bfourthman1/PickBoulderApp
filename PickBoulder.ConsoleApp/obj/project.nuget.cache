@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ypi27nvUQVi7PO2+a1u8KW0WVyckrSkpyf5vsIMoEcp28Re09RGWVbU/y7Blox7CjlJgVF2GxvDspWwuzMqk3Q==",
+  "dgSpecHash": "C5P/Rb5kGwGMvLilyQhrj/qT9TOmk2y6Uh26edOYEI4U6e1y1bosVN7Ufr2PIZUdnDKCzXmP1Itr3mM/S7quAA==",
   "success": true,
-  "projectFilePath": "C:\\PickBoulderApp\\PickBoulderApp.ConsoleApp\\PickBoulderApp.ConsoleApp.csproj",
+  "projectFilePath": "C:\\PickBoulderApp\\PickBoulder.ConsoleApp\\PickBoulder.ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PickBoulder.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "PickBoulder.Repository": "1.0.0"
+        },
+        "runtime": {
+          "PickBoulder.ConsoleApp.dll": {}
+        }
+      },
+      "PickBoulder.Repository/1.0.0": {
+        "runtime": {
+          "PickBoulder.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PickBoulder.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PickBoulder.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
